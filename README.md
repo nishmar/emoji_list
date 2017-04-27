@@ -7,7 +7,7 @@ The following lists are contained in this package:
 
 all_emoji
 
-###Smileys and people
+### Smileys and people
 face_positive
 face_neutral
 face_negative
@@ -27,7 +27,7 @@ body
 emotion
 clothing
 
-###Animals and nature
+### Animals and nature
 animals_mammal
 animal_bird
 animal_amphibian
@@ -37,7 +37,7 @@ animal_bug
 plant_flower
 plant_other
 
-###Food and drink
+### Food and drink
 food_fruit
 food_vegetable
 food_prepared
@@ -46,7 +46,7 @@ food_sweet
 drink
 dishware
 
-###Travel and places
+### Travel and places
 place_map
 place_geographic
 place_building
@@ -59,13 +59,13 @@ hotel
 time
 weather
 
-###Activities
+### Activities
 event
 award_medal
 sport
 game
 
-###Objects
+### Objects
 sound
 music
 musical_instrument
@@ -82,7 +82,7 @@ tool
 medical
 other_object
 
-###Symbols
+### Symbols
 transport_sign
 warning
 arrow
